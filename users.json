@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "jason",
+      "password": "password1",
+      "secret":  "i'm just a mortal"
+    },
+    {
+      "name": "john",
+      "password": "password2",
+      "secret": "my first pet was named pebble"
+
+    },
+    {
+      "name": "nosaj",
+      "password": "password3",
+      "secret": "i'm secretly normal"
+    }
+  ]
+}
